@@ -30,6 +30,7 @@ This downloads a full copy of the files onto your computer, inside a new folder 
 4. **Do not** check "Add a README file" or add a `.gitignore` — leave the new repository completely empty. (If you do initialize it, git will complain about unrelated histories when you try to push in later steps.)
 5. Click **Create repository**. GitHub will show you a repository URL like
    `https://github.com/your-username/my-portfolio.git` — copy it.
+   
 **Step 3 — point your local copy at your new repository, and push.**
 
 Back in your terminal, still inside the `my-portfolio` folder from Step 1:
