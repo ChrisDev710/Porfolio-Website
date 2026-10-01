@@ -17,7 +17,7 @@ your-repo/
 **Step 1 — clone the shared repository.**
 clone this repo which will look like:
 ```
-git clone [<the-repo-url>](https://github.com/cs120-ExploringCS/project1-website.git) my-portfolio
+git clone https://github.com/cs120-ExploringCS/project1-website.git my-portfolio
 cd my-portfolio
 ```
 This downloads a full copy of the files onto your computer, inside a new folder called `my-portfolio`.
